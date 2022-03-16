@@ -36,13 +36,13 @@
             <em>En caso de contar con los permisos necesarios, visualizarás tres indicadores en esta sección, de lo contrario, solo verás este texto</em>
             <br>
             <h4>
-                <a href="asasd" target="_new">
+                <a href="https://github.com/zavaletadev/test_casystem/tree/web_test" target="_new">
                     Repositorio de este demo (aplicación web y servicio REST)
                 </a>
             </h4>
 
             <h4>
-                <a href="asasd" target="_new">
+                <a href="https://github.com/zavaletadev/test_casystem/tree/mobile_test" target="_new">
                     Repositorio de este demo (App Android)
                 </a>
             </h4>
