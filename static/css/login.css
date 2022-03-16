@@ -1,0 +1,10 @@
+body {
+    background: url('../images/ca_test_bg.webp');
+    background-size: cover;
+}
+
+.btn-primary {
+    color: #fff !important;
+    background-color: #0065B2 !important;
+    border-color: #0065B2 !important;
+}

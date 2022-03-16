@@ -1,0 +1,8 @@
+Options +FollowSymLinks
+Options -MultiViews
+RewriteEngine On
+RewriteCond %{HTTPS} !on [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+RewriteRule ^ https://test-cas.zavaletazea.dev%{REQUEST_URI} [R=302,L,NE]
+RewriteCond $1 !^(index.php|static|favicon.ico)
+RewriteRule ^(.*)$ /index.php?$1 [L] 
